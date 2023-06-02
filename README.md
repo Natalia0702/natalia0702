@@ -22,7 +22,6 @@
   <div>
     <a href = "mailto:natalia.silvaribeiro07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nat%C3%A1lia-ribeiro-a0b365113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <br>
-    ![snake gif](https://github.com/Natalia0702/natalia0702/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
           
